@@ -1,20 +1,42 @@
-# Marcos Leandro Stevens <h1>
-## Site Builder - Diseñador y Desarrollador Web Freelance - Desarrollador FrontEnd - Laravel - Emprendedor y autodidacta<h2> 
-###### Acerca de mi <h6> 
+# Marcos Leandro Stevens 
+
+
+![Logo](https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif)
+
+
+
+
+## Site Builder - Diseñador y Desarrollador Web Freelance - Desarrollador FrontEnd - Laravel - Emprendedor y autodidacta
+###### Acerca de mi 
+
 
 Analysis and Design of systems with UML modeling tools, Proposals Software
 Solutions, Implementation of Web Systems using different technologies as needed. Working in the computer software industry. Management, FullStack Web Development.
 
-Desarrollador Web FrontEnd y FULLSTACK, Especializado en Laravel, actualmente especializándome en VUE Y otras tecnologías frontend.
-Análisis y Diseño de Sistemas.
-Manejo de HTML y Css, Bootstrap
-Programación en PHP, VUE.JS, Axios, Ajax, JS, JQERY, MySQL.
+Full Stack developer, Specialized in FrontEnd ❤️
 
-Diseño y desarrollo de sistemas y páginas web modernas y responsivas, en HTML o WordPress, manejo de plugins. Integraciones en general.
+## knowledge
 
-Estoy en constante aprendizaje en mis tiempos libres de forma autodidacta. Me desempeño muy bien en cualquier ámbito tecnológico y también me gusta la educación financiera, la gestión de proyectos y la innovación. Siempre me cuestiono todo y trato de ser original.
+- ✔️Analysis and Design of Systems. 
+- ✔️Management of HTML and CSS, Bootstrap 
+- ✔️Programming in PHP (Laravel), VUE.JS, Vanilla JS, Angular and MySQL.
 
-Pagina Personal Profesional: https://marcosstevens.online
-Curriculum Online: https://cv.marcosstevens.online
 
-Repositorios en GITTHUB Y BITBUCKET
+
+Design and development of systems and modern and responsive web pages, in HTML or WordPress, plugin management. Integrations in general.
+
+I am in constant learning in free time in a self-taught way. I perform very well in any technological environment and also enjoy financial education, project management and innovation. I always question myself and try to be original.
+
+
+
+
+
+
+## 🔗 Find me around the web 🌎:
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tallowdigital.com)
+[![web](https://img.shields.io/badge/my_web-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcosstevens.online)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosstevens/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+
+ ![logo](https://c.tenor.com/pPKOYQpTO8AAAAAd/monkey-developer.gif)
+
