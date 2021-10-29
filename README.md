@@ -6,7 +6,7 @@
 
 
 
-## Site Builder - Diseñador y Desarrollador Web Freelance - Desarrollador FrontEnd - Laravel - Emprendedor y autodidacta
+## Site Builder - Freelance Web Designer and Developer - FrontEnd Developer - Laravel - Entrepreneur and self-taught
 ###### Acerca de mi 
 
 
