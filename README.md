@@ -23,7 +23,7 @@ Full Stack developer, Specialized in FrontEnd ❤️
 - ✔️Leadership
 
 
-I am in constant learning in free time in a self-taught way. I perform very well in any technological environment and also enjoy financial education, project management and innovation. I always question myself and try to be original.
+I am always learning, and I'm constantly seeking opportunities to expand my knowledge and skillset through self-education. I thrive in any technological environment and enjoy financial education, project management, and innovation. I'm committed to questioning everything and always striving to be original.
 
 
 
