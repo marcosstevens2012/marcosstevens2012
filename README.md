@@ -17,10 +17,11 @@ Full Stack developer, Specialized in FrontEnd ❤️
 
 ## knowledge
 
-- ✔️Analysis and Design of Systems. 
-- ✔️Management of HTML and CSS, Bootstrap 
-- ✔️Programming in PHP (Laravel), VUE.JS, Vanilla JS, Angular and MySQL.
-
+- ✔️System Analysis and Design
+- ✔️HTML and CSS, Bootstrap
+- ✔️PHP (Laravel), Vue.js, React, Angular, Vanilla JS, and MySQL
+- ✔️Project Management (Jira)
+- ✔️Leadership
 
 
 Design and development of systems and modern and responsive web pages, in HTML or WordPress, plugin management. Integrations in general.
