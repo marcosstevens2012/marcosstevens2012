@@ -10,8 +10,7 @@
 ###### Acerca de mi 
 
 
-Analysis and Design of systems with UML modeling tools, Proposals Software
-Solutions, Implementation of Web Systems using different technologies as needed. Working in the computer software industry. Management, FullStack Web Development.
+I have the ability to analyze a client's business and processes to understand their information needs and define the requirements and functionalities of software solutions that meet their needs. I am skilled in designing and documenting these functional requirements in detail, as well as supervising programming, documentation, updating, and maintenance of computer systems.
 
 Full Stack developer, Specialized in FrontEnd ❤️
 
@@ -23,8 +22,6 @@ Full Stack developer, Specialized in FrontEnd ❤️
 - ✔️Project Management (Jira)
 - ✔️Leadership
 
-
-Design and development of systems and modern and responsive web pages, in HTML or WordPress, plugin management. Integrations in general.
 
 I am in constant learning in free time in a self-taught way. I perform very well in any technological environment and also enjoy financial education, project management and innovation. I always question myself and try to be original.
 
