@@ -6,7 +6,7 @@
 
 
 
-## Site Builder - Freelance Web Designer and Developer - FrontEnd Developer - Laravel - Entrepreneur and self-taught
+## Web Developer | Technical Functional Analyst | React | Laravel | Node | Leadership
 ###### Acerca de mi 
 
 
@@ -31,8 +31,7 @@ I am in constant learning in free time in a self-taught way. I perform very well
 
 
 ## 🔗 Find me around the web 🌎:
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tallowdigital.com)
-[![web](https://img.shields.io/badge/my_web-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcosstevens.online)
+[![web](https://img.shields.io/badge/my_web-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://marcosstevens.tech)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcosstevens/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
